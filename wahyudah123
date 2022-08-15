@@ -1,0 +1,31 @@
+Thank You For Using Our Services
+SSH OpenVPN & Websocket Account Info
+Username        : jsjsjsksks11
+Password        : 123
+Expired On      : Sep 14, 2022
+========================================
+Host            : no5c.autocf.online / 128.199.249.255
+DNS Hostname    : no5cnsque.slowdns.my.id
+OpenSSH         : 443, 22
+Dropbear        : 443, 109, 143
+SSL/TLS         : 443, 777
+Squid           : 3128 (limit to IP Server)
+Socks5          : 8080 (Username Authentication)
+OHP             : SSH 8181, Dropbear 8282, OpenVPN 8383
+DNS for slowdns : 1.1.1.1 / 8.8.8.8
+PUB key slowdns : ed8611324788c58236b0b783f416f8dcbacbc8d8e62404903413e8e9b7949b5f
+========================================
+SSH WS          : 2082
+SSH WS SSL      : 443
+OpenVPN WS      : 2086
+=======Payload Websocket HTTP============
+GET / HTTP/1.1[crlf]Host: no5c.autocf.online[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+=======Payload Websocket HTTP============
+GET wss://fill_with_bug/ HTTP/1.1[crlf]Host: no5c.autocf.online[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]
+========================================
+OpenVPN         : TCP 1194 http://no5c.autocf.online:81/client-tcp-1194.ovpn
+OpenVPN         : TCP 443 http://no5c.autocf.online:81/client-tcp-443.ovpn
+OpenVPN         : UDP 2200 http://no5c.autocf.online:81/client-udp-2200.ovpn
+OpenVPN         : SSL 442 http://no5c.autocf.online:81/client-tcp-ssl.ovpn
+badvpn          : 7100-7300
+=======================================
